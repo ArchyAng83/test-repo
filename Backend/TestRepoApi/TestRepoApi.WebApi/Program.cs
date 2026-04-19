@@ -22,6 +22,7 @@ namespace TestRepoApi.WebApi
             {
                 app.MapOpenApi();
                 app.MapScalarApiReference(opt => opt.DarkMode = true);
+                //test changes
             }
 
             app.UseHttpsRedirection();
