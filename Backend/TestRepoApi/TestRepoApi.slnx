@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="TestRepoApi.WebApi/TestRepoApi.WebApi.csproj" Id="a63bb45c-3167-4905-a0e8-2086d6438adb" />
+  </Folder>
+</Solution>
